@@ -2,13 +2,11 @@
     margin: 0;
     padding: 0;
     text-decoration:none;
-
 }
 a{
     text-decoration:none;
     color: #fff;
 }
-
 a.home{
         font-family: 'IBM Plex Sans', sans-serif;
     color:#fff;
@@ -22,9 +20,6 @@ a.home{
     display: block;
     padding:50px 0;
 }
-
-
-
 .responsive{
     max-width:100%; 
 }
@@ -33,42 +28,36 @@ a:hover{
     -webkit-transition: .5s; /* Safari */
     transition: .5s;
 }
-
 html{
     background: #000;
     color: #fff;
-            -webkit-transition: .5s; /* Safari */
+    -webkit-transition: .5s; /* Safari */
     transition: .5s;
 }
-
 h1{
     font-family: 'Muli', sans-serif;
     font-weight: 800;
     margin-bottom: 80px;
     line-height: 51px;
 }
-
 p{
-        font-family: 'Muli', sans-serif;
+    font-family: 'Muli', sans-serif;
     font-weight: 800;
     margin-bottom: 80px;
     font-size: 22px;
     text-align:center;
     padding: 0 25px;
     line-height: 1.8;
-        margin-bottom: 50px;
-    
+    margin-bottom: 50px;    
 }
 h1 a{
     border-bottom: 1px solid #1f1f1f;
-        -webkit-transition: .5s; /* Safari */
+    -webkit-transition: .5s; /* Safari */
     transition: .5s;
 }
-
 h1 a:hover{
     border-bottom: 1px solid #fff;
 }
-
 h2{
     font-family: 'Muli', sans-serif;
     font-weight: 400;
@@ -78,7 +67,6 @@ h2{
     color:#696969;
     margin-bottom: 80px;
 }
-
 h2 a{
         color:#696969;
 }
@@ -86,12 +74,10 @@ h2 span{margin:0 20px}
 .right{
     margin-left: 20px;
 }
-
 .container{
     width: 900px;
     margin: 0 auto;
 }
-
 .logo{
     width: 189px;
     margin: 0 auto;
@@ -99,7 +85,6 @@ h2 span{margin:0 20px}
     margin-top: 170px;
     margin-bottom: 70px;
 }
-
 .works{
     width: 100%;
     float: left;
@@ -111,17 +96,13 @@ h2 span{margin:0 20px}
     margin-bottom: 20px;
     position:relative;
     overflow: hidden;
-
-    
 }
-
 .cardHover{
     width:100%;
     height:100%;
     position:absolute;
     background:rgba(0,0,0,0.95);
     opacity:0;
-
     transition: -webkit-transition: .3s; /* Safari */
     transition: .3s;
 }
@@ -134,41 +115,35 @@ h2 span{margin:0 20px}
     margin-top:180px;
     transition: -webkit-transition: .2s; /* Safari */
     transition: .2s;
-
 }
 .cardHover img{
     width:50px;
     margin-left:60px;
     margin-top:45px;
-        transition: -webkit-transition: .9s; /* Safari */
+    transition: -webkit-transition: .9s; /* Safari */
     transition: .9s;
 }
-
 .card:hover .cardHover{
     opacity:1;
     transition: -webkit-transition: .3s; /* Safari */
     transition: .3s;
 }
-
 .card:hover .cardHover h3{
-        margin-top:150px;
+    margin-top:150px;
     transition: -webkit-transition: .2s; /* Safari */
     transition: .2s;
 }
-
 .card:hover .cardHover img{
     margin-top:20px;
-        transition: -webkit-transition: .4s; /* Safari */
+    transition: -webkit-transition: .4s; /* Safari */
     transition: .4s;
 }
-
 img.workShow{
     width: 100%;
     margin-bottom: 50px;
 }
-
 .workshowcase h1{
-            font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
     font-size:28px;
     text-align: center;
     margin: 0 auto;
@@ -179,7 +154,7 @@ img.workShow{
     padding:50px 0 0 0;
 }
 .workshowcase h6{
-            font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
     font-size:11px;
     text-align: center;
     margin: 0 auto;
@@ -191,7 +166,6 @@ img.workShow{
     font-weight: 400;
     opacity: .4;
 }
-
 .divider{
     width: 100%;
     text-align: center;
@@ -202,7 +176,6 @@ img.workShow{
 .divider img{
     width: 40%;
 }
-
 .divider h3{
     font-family: 'Muli', sans-serif;
     font-weight: 400;
@@ -214,9 +187,8 @@ img.workShow{
     padding-bottom: 24px;
     color: #ffffff;
 }
-
 .footer{
-  float: left;
+    float: left;
     text-align: center;
     width: 100%;
     margin-bottom: 5px;
