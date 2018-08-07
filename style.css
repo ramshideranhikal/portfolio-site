@@ -86,7 +86,11 @@ h2 span{margin:0 20px}
     margin-bottom: 70px;
 }
 .logostat{
-width:100px;
+    width:100px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 170px;
+    margin-bottom: 70px;
 }
 .works{
     width: 100%;
