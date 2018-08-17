@@ -387,11 +387,11 @@ img.workShow {
         width: 100%;
     }
     .card:hover .cardHover h3 {
-        margin-top: 120px;
-        font-size: 30px;
+        margin-top: 10px;
+        font-size: 25px;
         line-height: 30px;
-        padding-left: 50px;
-    }
+        padding-left: 10px;
+    }    
     .cardHover img {
         width: 45px;
     }
